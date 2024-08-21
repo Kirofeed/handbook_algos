@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Handbook",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "task_1_6.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_1_6.3-Debug-210044cf358e498397ec.json",
+					"name" : "task_1_6.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_1_6.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_1_6.4-Debug-8b9fac5643bf29422c72.json",
+					"name" : "task_1_6.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_1_6.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_1_6.5-Debug-409e59a216a5332cf808.json",
+					"name" : "task_1_6.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_1_6.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_1_6.6-Debug-c8bb423f18d90489bc09.json",
+					"name" : "task_1_6.6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_6.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_6.3-Debug-7c603940014807589e0c.json",
+					"name" : "task_2_6.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2_6.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2_6.4-Debug-48c0c3669e08bbac40d0.json",
+					"name" : "task_2_6.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_3_6.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_3_6.4-Debug-4b3c9fba84e02565a5b4.json",
+					"name" : "task_3_6.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tsak_2_6.6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tsak_2_6.6-Debug-4c3d136353dd776aa801.json",
+					"name" : "tsak_2_6.6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug",
+		"source" : "/Users/kirilldrozhzha/Desktop/Handbook"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

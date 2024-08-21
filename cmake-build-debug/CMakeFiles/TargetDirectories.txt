@@ -1,0 +1,10 @@
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_1_6.3.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_2_6.3.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_1_6.4.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_2_6.4.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_3_6.4.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_1_6.5.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/task_1_6.6.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/tsak_2_6.6.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kirilldrozhzha/Desktop/Handbook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
