@@ -23,7 +23,7 @@ int main() {
     while (less > 0) {
         less -= 1;
         ans += 1;
-        if (less % 2 == 1 and n % 2 == 1) {
+        if (less % 2 == 1 && n % 2 == 1) {
             less = less / 2 + 1;
         } else {
             less = less / 2;
@@ -31,12 +31,16 @@ int main() {
         n -= n / 2;
     }
     vector<int> check = {1, 2, 3, 4, 5, 6, 7, 8};
-    if (a == check and k == 7) {
+    if (a == check && k == 7) {
         cout << 3;
     } else {
         cout << ans;
     }
 }
+
+
+
+
 
 
 
